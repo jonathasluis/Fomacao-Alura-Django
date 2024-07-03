@@ -25,3 +25,12 @@ python manage.py runserver
 ```shell
 deactivate
 ```
+
+#Migrations
+
+```shell
+python manage.py makemigrations
+```
+```shell
+python manage.py migrate
+```
